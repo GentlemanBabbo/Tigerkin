@@ -61,6 +61,10 @@
 							<attribute id="Slot" type="FixedString" value="Head" />
 							<attribute id="VisualResource" type="FixedString" value="cb343d4d-652d-42f4-9556-97edbecc94a6" />
 						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Tail" />
+							<attribute id="VisualResource" type="FixedString" value="09c45c0c-32d0-4c8b-9f7f-e66d75d52d0a" />
+						</node>
 					</children>
 				</node>
 				<node id="Resource">
