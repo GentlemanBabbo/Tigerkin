@@ -6,9 +6,9 @@
 			<children>
 				<node id="Resource">
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="bb6f133e-75d5-4336-83a1-759a563598da" />
+					<attribute id="ID" type="FixedString" value="6586e436-8734-40d7-adb2-fbfb24591800" />
 					<attribute id="MaterialType" type="uint8" value="18" />
-					<attribute id="Name" type="LSString" value="Colorable_Body_Tigerkin" />
+					<attribute id="Name" type="LSString" value="Colorable_Tail_Tigerkin" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/Trips_Skin_Body_Old.lsf" />
 					<children>						
 						<node id="ScalarParameters">
@@ -437,14 +437,14 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="cf173d11-582c-40c7-9dfc-e86186eea091" />
+							<attribute id="ID" type="FixedString" value="9d5bfeb6-aec6-4270-a501-f87fb41faf34" />
 							<attribute id="ParameterName" type="FixedString" value="normalmap" />
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="5974bb99-aa0b-4adb-b289-5c3775e05044" />
+							<attribute id="ID" type="FixedString" value="4ae1c783-4b2b-4f37-a113-3ebc7116a344" />
 							<attribute id="ParameterName" type="FixedString" value="CLEA" />
 						</node>
 						<node id="Texture2DParameters">
@@ -459,20 +459,20 @@
 							<attribute id="ParameterName" type="FixedString" value="CancelMSK" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="ID" type="FixedString" value="6f2b1491-71a9-4b4e-86ce-482ae6756484" />
+							<attribute id="ID" type="FixedString" value="85b914f0-f572-4eca-b7dd-249a4fd5dfa0" />
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ParameterName" type="FixedString" value="BaseColor_NonSkin" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="ID" type="FixedString" value="53499219-6020-4c29-9649-c90392b9f9f8" />
+							<attribute id="ID" type="FixedString" value="8bb7bdf9-c865-46c0-9f82-72aa096a8e09" />
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="caeb567f-7c6b-4fa1-93c4-43ee3949abbf" />
+							<attribute id="ID" type="FixedString" value="43086605-9bce-4383-b91f-0dc56a4ac3c5" />
 							<attribute id="ParameterName" type="FixedString" value="HMVY" />
 						</node>
 					</children>
@@ -486,12 +486,12 @@
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="4096" />
-					<attribute id="ID" type="FixedString" value="53499219-6020-4c29-9649-c90392b9f9f8" />
-					<attribute id="Name" type="LSString" value="Tigerkin_M_Body_BM" />
+					<attribute id="ID" type="FixedString" value="8bb7bdf9-c865-46c0-9f82-72aa096a8e09" />
+					<attribute id="Name" type="LSString" value="Tigerkin_M_Tail_BM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Tigerkin/[PAK]_Tigerkin_Body/Tigerkin_Body/Tigerkin_M_Body_BM.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Tigerkin/[PAK]_Tigerkin_Body/Tigerkin_Body/Tigerkin_M_Tail_BM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Tigerkin_M_Body_BM" />
+					<attribute id="Template" type="FixedString" value="Tigerkin_M_Tail_BM" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="4096" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
@@ -499,12 +499,12 @@
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="4096" />
-					<attribute id="ID" type="FixedString" value="6f2b1491-71a9-4b4e-86ce-482ae6756484" />
-					<attribute id="Name" type="LSString" value="Tigerkin_M_Body_MSK" />
+					<attribute id="ID" type="FixedString" value="85b914f0-f572-4eca-b7dd-249a4fd5dfa0" />
+					<attribute id="Name" type="LSString" value="Tigerkin_M_Tail_MSK" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Tigerkin/[PAK]_Tigerkin_Body/Tigerkin_Body/Tigerkin_M_Body_MSK.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Tigerkin/[PAK]_Tigerkin_Body/Tigerkin_Body/Tigerkin_M_Tail_MSK.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Tigerkin_M_Body_MSK" />
+					<attribute id="Template" type="FixedString" value="Tigerkin_M_Tail_MSK" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="4096" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
@@ -512,12 +512,12 @@
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="4096" />
-					<attribute id="ID" type="FixedString" value="cf173d11-582c-40c7-9dfc-e86186eea091" />
-					<attribute id="Name" type="LSString" value="Tigerkin_M_Body_NM" />
+					<attribute id="ID" type="FixedString" value="9d5bfeb6-aec6-4270-a501-f87fb41faf34" />
+					<attribute id="Name" type="LSString" value="Tigerkin_M_Tail_NM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Tigerkin/[PAK]_Tigerkin_Body/Tigerkin_Body/Tigerkin_M_Body_NM.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Tigerkin/[PAK]_Tigerkin_Body/Tigerkin_Body/Tigerkin_M_Tail_NM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Tigerkin_M_Body_NM" />
+					<attribute id="Template" type="FixedString" value="Tigerkin_M_Tail_NM" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="4096" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
@@ -525,12 +525,12 @@
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="4096" />
-					<attribute id="ID" type="FixedString" value="caeb567f-7c6b-4fa1-93c4-43ee3949abbf" />
-					<attribute id="Name" type="LSString" value="Tigerkin_M_Body_HMVY" />
+					<attribute id="ID" type="FixedString" value="43086605-9bce-4383-b91f-0dc56a4ac3c5" />
+					<attribute id="Name" type="LSString" value="Tigerkin_M_Tail_HMVY" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Tigerkin/[PAK]_Tigerkin_Body/Tigerkin_Body/Tigerkin_M_Body_HMVY.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Tigerkin/[PAK]_Tigerkin_Body/Tigerkin_Body/Tigerkin_M_Tail_HMVY.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Tigerkin_M_Body_HMVY" />
+					<attribute id="Template" type="FixedString" value="Tigerkin_M_Tail_HMVY" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="4096" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
@@ -538,12 +538,12 @@
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="4096" />
-					<attribute id="ID" type="FixedString" value="5974bb99-aa0b-4adb-b289-5c3775e05044" />
-					<attribute id="Name" type="LSString" value="Tigerkin_M_Body_CLEA" />
+					<attribute id="ID" type="FixedString" value="4ae1c783-4b2b-4f37-a113-3ebc7116a344" />
+					<attribute id="Name" type="LSString" value="Tigerkin_M_Tail_CLEA" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Tigerkin/[PAK]_Tigerkin_Body/Tigerkin_Body/Tigerkin_M_Body_CLEA.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Tigerkin/[PAK]_Tigerkin_Body/Tigerkin_Body/Tigerkin_M_Tail_CLEA.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Tigerkin_M_Body_CLEA" />
+					<attribute id="Template" type="FixedString" value="Tigerkin_M_Tail_CLEA" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="4096" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
@@ -563,9 +563,9 @@
 			<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 			<attribute id="HairPresetResourceId" type="FixedString" value="" />
 			<attribute id="HairType" type="uint8" value="0" />
-			<attribute id="ID" type="FixedString" value="2faa16f5-50a3-4df4-ad5a-1c1645d9c2f8" />
+			<attribute id="ID" type="FixedString" value="09c45c0c-32d0-4c8b-9f7f-e66d75d52d0a" />
 			<attribute id="MaterialType" type="uint8" value="0" />
-			<attribute id="Name" type="LSString" value="Dragovian_M_Tail_A" />
+			<attribute id="Name" type="LSString" value="Tigerkin_M_Tail_A" />
 			<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 			<attribute id="RemapperSlotId" type="FixedString" value="" />
 			<attribute id="ScalpMaterialId" type="FixedString" value="" />
@@ -573,10 +573,10 @@
 			<attribute id="SkeletonSlot" type="FixedString" value="Tail" />
 			<attribute id="Slot" type="FixedString" value="NakedBody" />
 			<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-                        <attribute id="SourceFile" type="LSString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Body/Dragovian_Body/Dragovian_M_Tail.GR2" />
+                        <attribute id="SourceFile" type="LSString" value="Generated/Public/Tigerkin/[PAK]_Tigerkin_Body/Tigerkin_Body/Tigerkin_M_Tail_A.GR2" />
                         <!-- ^ Make sure this matches your folder structure. -->
                         <attribute id="SupportsVertexColorMask" type="bool" value="False" />
-                        <attribute id="Template" type="FixedString" value="Generated/Public/Dragovian/[PAK]_Dragovian_Body/Dragovian_Body/Dragovian_M_Tail.Dummy_Root.0" />
+                        <attribute id="Template" type="FixedString" value="Generated/Public/Tigerkin/[PAK]_Tigerkin_Body/Tigerkin_Body/Tigerkin_M_Tail_A.Dummy_Root.0" />
                         <!-- ^ Make sure this matches your folder structure, but with .Dummy_Root.0 at the end instead. -->
 			<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
 				<children>
@@ -590,16 +590,16 @@
 						<node id="ClothProxyMapping" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="6bf522bd-923b-4268-89a4-814e118b9e2d" />
-							<attribute id="ObjectID" type="FixedString" value="Dragovian_M_Tail.Dragovian_M_Tail.0" />
+							<attribute id="MaterialID" type="FixedString" value="6586e436-8734-40d7-adb2-fbfb24591800" />
+							<attribute id="ObjectID" type="FixedString" value="Tigerkin_M_Tail.Tigerkin_M_Tail.0" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="6bf522bd-923b-4268-89a4-814e118b9e2d" />
-							<attribute id="ObjectID" type="FixedString" value="Dragovian_M_Tail.Dragovian_M_Tail.1" />
+							<attribute id="MaterialID" type="FixedString" value="6586e436-8734-40d7-adb2-fbfb24591800" />
+							<attribute id="ObjectID" type="FixedString" value="Tigerkin_M_Tail.Tigerkin_M_Tail.1" />
 						</node>
-               </children>
-             </node>
+              			</children>
+             		</node>
 		</children>
        </node>
     </region>
