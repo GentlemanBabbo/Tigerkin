@@ -1,4 +1,4 @@
-<!--------------------- Custom Race Passives --------------------->
+<!--------------------- Tigerkin Passives --------------------->
 
 new entry "Tigerkin_BasicPassives"
 type "PassiveData"
@@ -6,8 +6,27 @@ data "DisplayName" "h18f631efgdfeeg4683gac99g72a7dff7e657"
 data "Description" "hb1c0e0d5g1cbag401agb788gc5a4fa133bac"
 data "DescriptionParams" "Distance(12)"
 data "Icon" "PassiveFeature_Darkvision"
-data "Properties" "IsHidden"
-data "Boosts" "ActionResource(Movement,9,0);DarkvisionRangeMin(12)"
+data "Properties" "Highlighted"
+data "Boosts" "ActionResource(Movement,10.5,0);DarkvisionRangeMin(24)"
 
-<!--------------------- Custom Race Spells --------------------->
+new entry "Passive_TigerTraining"
+type "PassiveData"
+data "DisplayName" "h73f2bdb1gd71ag4273gb7ddg773b161a2666;2"
+data "Description" "h1af0953ag7d96g4541ga9a8g935992e0e555;1"
+data "Icon" "PassiveFeature_Generic_Threat"
+data "Properties" "Highlighted;ForceShowInCC"
+data "Boosts" "Proficiency (Scimitars); Proficiency(LightHammers); Proficiency(Warhammers); Proficiency(Mauls)"
+
+new entry "Passive_FelineFoot"
+type "PassiveData"
+data "DisplayName" "h24g5289aagfg1ag4273gb7ddg773b161a266;2"
+data "Description" "h22g9449aagfg1ag4282gg7deb553va63a245;2"
+data "DescriptionParams" "Distance(3)"
+data "Icon" "PassiveFeature_UnarmoredMovement"
+data "Properties" "Highlighted"
+data "BoostContext" "OnEquip;OnCreate"
+data "BoostConditions" "not WearingArmor(context.Source)"
+data "Boosts" "ActionResource(Movement, 1.5, 0)"
+
+<!--------------------- Tigerkin Spells --------------------->
 
