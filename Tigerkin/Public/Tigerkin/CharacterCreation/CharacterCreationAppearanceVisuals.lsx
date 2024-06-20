@@ -491,7 +491,7 @@
 			                <attribute id="DisplayName" type="TranslatedString" handle="" version="1"/> 
 					<attribute id="IconIdOverride" type="FixedString" value=""/><!-- Matches the Map Key for the corresponding icon in ModName_Icons.lsx - I usually just take the hair's VisualResource UUID and stick a 0_Hair_ in front of it -->
 					<attribute id="RaceUUID" type="guid" value="2b9997e4-abcd-4867-bb1c-36ed0c7fac50"/>
-					<attribute id="SlotName" type="FixedString" value="Beard"/>
+					<attribute id="SlotName" type="FixedString" value="Horns"/>
 		                    <attribute id="UUID" type="guid" value="aa169799-b466-481e-9ca4-64a919c29a65"/>
                    			<attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
 					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
