@@ -9,7 +9,7 @@
                   <attribute id="Name" type="LSString" value="Tigerkin" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
                   <attribute id="PassivesAdded" type="LSString" value="Tigerkin_BasicPassives;Passive_TigerTraining;Passive_FelineFoot" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="SelectSkills(901b60e1-a210-4e89-bfae-475c483b916a,2)" />see below for explanation
+                  <attribute id="Selectors" type="LSString" value="AddSpells(bc7574fb-4680-4034-93bb-3abd019e43f6,,,,AlwaysPrepared);SelectSkills(901b60e1-a210-4e89-bfae-475c483b916a,2)" />see below for explanation
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="8deb2941-0986-4ce4-805d-7e45bdeeca0b" /> Always use this one for races.lsx, says this progression node is for Main Race
                   <attribute id="UUID" type="guid" value="346a8016-8ae7-46a1-ab47-a2f61b5c95ee" />  this one must be unique
