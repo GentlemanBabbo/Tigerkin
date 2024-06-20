@@ -33,7 +33,7 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="06Eyes" />
 											<attribute id="MapKey" type="FixedString" value="06Eyes" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="3c669eba-b383-4079-859b-d9a5ee8cbcc6" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="0974ab61-b617-49da-ab82-1d9c19ea676b" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
