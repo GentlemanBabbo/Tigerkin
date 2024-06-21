@@ -90,8 +90,14 @@ data "SpellAnimationIntentType" "Aggressive"
 data "SpellSoundMagnitude" "Normal"
 data "Sheathing" "DontChange"
 
-new entry "GREAT_POUNCE_ANIMATION_TAGS"
-type "StatusData"
-data "StatusType" "BOOST"
-data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
+// Animation Tags //
+
+new entry "Passive_Tigerkin_BiteAnimTag"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "DynamicAnimationTag" "aafbe780-d237-416e-9d05-e03070c9dbee"
+
+new entry "Passive_Great_Pounce_ANIMATION_TAGS"
+type "PassiveData"
+data "Properties" "IsHidden"
 data "DynamicAnimationTag" "b6aa23c3-c96d-42d5-8ffa-8d441d18faa7"
