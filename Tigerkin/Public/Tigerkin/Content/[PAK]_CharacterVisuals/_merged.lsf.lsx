@@ -68,8 +68,8 @@
 					</children>
 				</node>
 				<node id="Resource">
-					<attribute id="BaseVisual" type="FixedString" value="cd050eaa-ea20-4b36-87ce-dbf569e38834" />
-					<attribute id="BodySetVisual" type="FixedString" value="067359a5-a360-4371-a95c-7dc824a06fc7" />
+					<attribute id="BaseVisual" type="FixedString" value="a96187a4-68dc-db02-93b4-ae0efd2ba939" />
+					<attribute id="BodySetVisual" type="FixedString" value="a5ec4244-8462-4e92-9f99-fc8c9f507792" />
 					<attribute id="ID" type="FixedString" value="9898de32-cc27-41e1-a8a3-142a9abd0702" />
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="BASE_Main_Female_Tigerkin" />					
