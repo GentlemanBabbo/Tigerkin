@@ -9,8 +9,8 @@
                     <attribute id="Width" type="int32" value="150"/>
                 </node>
                 <node id="TextureAtlasPath">
-                    <attribute id="Path" type="string" value="Public/ModName/Assets/Textures/Icons/ModName_CCIcons01.dds"/> <!-- The path to the .dds file; should match the path listed in the [PAK]_UI folder's _merged file. -->
-                    <attribute id="UUID" type="FixedString" value="4d26eb31-93e6-42ac-a564-a96ef2f5d629"/> <!-- The .dds's UUID; should match the UUID listed in the [PAK]_UI folder's _merged file. -->
+                    <attribute id="Path" type="string" value="Public/Tigerkin/Assets/Textures/Icons/Tigerkin_CCIcons.DDS"/> <!-- The path to the .dds file; should match the path listed in the [PAK]_UI folder's _merged file. -->
+                    <attribute id="UUID" type="FixedString" value="70ae0faf-eae3-4a99-95f3-3eeeecc2f841"/> <!-- The .dds's UUID; should match the UUID listed in the [PAK]_UI folder's _merged file. -->
                 </node>
                 <node id="TextureAtlasTextureSize"> <!-- These are the dimensions for the atlases I've included. If you go with a different size, make sure you change this to reflect that. -->
                     <attribute id="Height" type="int32" value="750"/>
@@ -27,28 +27,28 @@
             <!-- I used the sheets calculator linked in this BG3-Modders-Multitool issue to calculate the coordinates I used (I made a copy of the document that I could edit): https://github.com/ShinyHobo/BG3-Modders-Multitool/issues/218 -->
             <!--Row 1-->
                 <node id="IconUV"> 1
-                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/> <!-- Use 0 for masc, 1 for fem, followed by the slot name, followed by the VisualResource ID of the thing this icon is for. -->
+                    <attribute id="MapKey" type="FixedString" value="0_Head_cb343d4d-652d-42f4-9556-97edbecc94a6"/> <!-- Use 0 for masc, 1 for fem, followed by the slot name, followed by the VisualResource ID of the thing this icon is for. -->
                     <attribute id="U1" type="float" value="0"/>     <!--Left Boundary-->
                     <attribute id="U2" type="float" value="0.1"/>   <!--Right Boundary-->
                     <attribute id="V1" type="float" value="0"/>     <!--Top Boundary-->
                     <attribute id="V2" type="float" value="0.2"/>   <!--Bottom Boundary-->
                 </node>
                 <node id="IconUV"> 2
-                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="MapKey" type="FixedString" value="0_Head_5c03aa40-11fd-4fda-b7c7-e7f26b7ac385"/>
                     <attribute id="U1" type="float" value="0.1"/>
                     <attribute id="U2" type="float" value="0.2"/>
                     <attribute id="V1" type="float" value="0"/>
                     <attribute id="V2" type="float" value="0.2"/>
                 </node>
                 <node id="IconUV"> 3
-                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="MapKey" type="FixedString" value="1_Head_907c7c4d-6595-4f5b-b5a5-c1bee683f1ba"/>
                     <attribute id="U1" type="float" value="0.2"/>
                     <attribute id="U2" type="float" value="0.3"/>
                     <attribute id="V1" type="float" value="0"/>
                     <attribute id="V2" type="float" value="0.2"/>
                 </node>
                 <node id="IconUV"> 4
-                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="MapKey" type="FixedString" value="1_Head_94ad5376-c698-4976-8197-17a13583f516"/>
                     <attribute id="U1" type="float" value="0.3"/>
                     <attribute id="U2" type="float" value="0.4"/>
                     <attribute id="V1" type="float" value="0"/>
