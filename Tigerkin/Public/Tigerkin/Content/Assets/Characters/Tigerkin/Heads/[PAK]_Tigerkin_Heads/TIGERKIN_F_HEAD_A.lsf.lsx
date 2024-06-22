@@ -2608,23 +2608,33 @@
 						<node id="Base" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="fcc5d4ba-aad1-43ef-ac9e-65ca345fee43" />
+							<attribute id="MaterialID" type="FixedString" value="b34d5e20-a652-4836-946e-40ca23ca4cd4" />
 							<attribute id="ObjectID" type="FixedString" value="Tigerkin_F_Head_A.1PANTHER_Head.0" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="139d7540-7c20-e1ab-0c41-9126c5ff828d" />
-							<attribute id="ObjectID" type="FixedString" value="Rakshasa_M_Head_A.2PANTHER_Sabre_A_Eye_Mesh.1" />
+							<attribute id="MaterialID" type="FixedString" value="f3283bba-6025-dd5e-7a68-36fa639db970" />
+							<attribute id="ObjectID" type="FixedString" value="Tigerkin_F_Head_A.2TIF_FS_NKD_Head_A_Remap_Mouth_Interior_Fangs_Mesh.2" />
+						</node>		
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="2fc5705d-6764-4d55-d3a2-91c6fac3eb70" />
+							<attribute id="ObjectID" type="FixedString" value="Tigerkin_F_Head_A.3PANTHER_Sabre_A_Eye_Mesh.2" />
 						</node>						
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="d96192bb-4233-af3d-5510-fff51cc4ee43" />
-							<attribute id="ObjectID" type="FixedString" value="Rakshasa_M_Head_A.3CAT_Head_A_Mouth_Interior_Mesh.2" />
+							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+							<attribute id="ObjectID" type="FixedString" value="Tigerkin_F_Head_A.4HUM_FS_NKD_Head_B_Remap_Eyeshadow_Mesh.3" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="02a386a7-1014-5bf7-55ad-c124e84ef6ba" />
-							<attribute id="ObjectID" type="FixedString" value="SoulStitched_M_Head_A.4REDCAP_M_NKD_Head_A_Brow_Mesh.3" />
+							<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
+							<attribute id="ObjectID" type="FixedString" value="Tigerkin_F_Head_A.5HUM_FS_NKD_Head_B_Remap_Tearline_Mesh.4" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+							<attribute id="ObjectID" type="FixedString" value="Tigerkin_F_Head_A.6HUM_FS_NKD_Head_B_Remap_Eyelashes_Mesh.5" />
 						</node>
 					</children>
 				</node>
