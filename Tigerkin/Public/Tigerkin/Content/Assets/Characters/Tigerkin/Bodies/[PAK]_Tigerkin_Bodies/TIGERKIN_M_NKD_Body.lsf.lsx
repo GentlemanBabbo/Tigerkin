@@ -712,7 +712,7 @@
 					<attribute id="BoundsMin" type="fvec3" value="-0.8939065 -0.0031829742 -0.22867945" />
 					<attribute id="ClothColliderResourceID" type="FixedString" value="a0fd404d-95e0-f243-717d-6022f8d6b897" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="" />
-					<attribute id="HairType" type="uint8" value="0" /
+					<attribute id="HairType" type="uint8" value="0" />
 					<attribute id="ID" type="FixedString" value="33639c3f-71ca-4986-9286-d47891943a9f" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="Tigerkin_M_NKD_Body" />
