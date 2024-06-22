@@ -708,14 +708,11 @@
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
-					<attribute id="BoundsMax" type="fvec3" value="0.1647948 1.595457 0.08734682" />
-					<attribute id="BoundsMin" type="fvec3" value="-0.1643391 0.520597 -0.2023039" />
-					<attribute id="Center" type="fvec3" value="0.0002278388 1.058027 -0.05747854" />
-					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.8939055 1.8765771 0.20022681" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.8939065 -0.0031829742 -0.22867945" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="a0fd404d-95e0-f243-717d-6022f8d6b897" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="" />
-					<attribute id="HairType" type="uint8" value="0" />
-					<attribute id="Initialized" type="bool" value="True" />
-					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="HairType" type="uint8" value="0" /
 					<attribute id="ID" type="FixedString" value="33639c3f-71ca-4986-9286-d47891943a9f" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="Tigerkin_M_NKD_Body" />
@@ -725,7 +722,7 @@
 					<attribute id="SkeletonResource" type="FixedString" value="" />
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
 					<attribute id="Slot" type="FixedString" value="NakedBody" />
-					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="e28b7fa6-4e9f-1287-659a-a0dfd6277748" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/Tigerkin/[PAK]_Tigerkin_Body/Tigerkin_Body/Tigerkin_M_NKD_Body.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="Generated/Public/Tigerkin/[PAK]_Tigerkin_Body/Tigerkin_Body/Tigerkin_M_NKD_Body.Dummy_Root.0" />
