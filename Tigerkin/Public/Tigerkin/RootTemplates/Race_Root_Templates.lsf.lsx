@@ -8,7 +8,7 @@
 					<attribute id="MapKey" type="FixedString" value="092e18ad-0528-4ed8-b795-906c5a38d6d1" /> must be unique
 					<attribute id="Name" type="LSString" value="BASE_Main_Female_Tigerkin" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="ParentTemplateId" type="FixedString" value="61943f98-adab-4bfd-91e1-9c20557edc73" /> DGB
+					<attribute id="ParentTemplateId" type="FixedString" value="a31730e7-73b9-4c34-b14a-d9bcd2366cb2" /> Half-Orc
 					<attribute id="Icon" type="FixedString" value="24bcc44f-4168-1468-222a-b1bb6370e000-_(Icon_Elf_Female)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="9898de32-cc27-41e1-a8a3-142a9abd0702" /> which models to load
 					<attribute id="Race" type="guid" value="2b9997e4-abcd-4867-bb1c-36ed0c7fac50" /> define race as Custom Race
