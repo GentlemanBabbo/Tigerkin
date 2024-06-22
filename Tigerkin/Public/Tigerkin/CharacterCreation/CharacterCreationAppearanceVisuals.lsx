@@ -5,7 +5,7 @@
         <node id="root">
             <children>
 		<!--Tigerkin Heads-->
-				<node id="CharacterCreationAppearanceVisual"> Tigerkin - A
+				<node id="CharacterCreationAppearanceVisual"> Tigerkin Male - A
 					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
 					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
@@ -19,6 +19,19 @@
 					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
 				</node>
 
+				<node id="CharacterCreationAppearanceVisual"> Tigerkin Female - A
+					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
+					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
+					<attribute id="BodyType" type="uint8" value="1"/> <!--0 = Masc 1 = Fem -->
+                   			<attribute id="DisplayName" type="TranslatedString" handle="" version="1"/> 
+					same as the handle in your Localization\English\custom_name_here.xml
+					<attribute id="RaceUUID" type="guid" value="2b9997e4-abcd-4867-bb1c-36ed0c7fac50"/>
+					The UUID for the race you're making the head for. See below for a list.
+					<attribute id="SlotName" type="FixedString" value="Head"/>
+					<attribute id="UUID" type="guid" value="4bc895a5-2263-49bb-a947-3787912c9173"/> <!--Unique UUID -->
+					<attribute id="VisualResource" type="guid" value="907c7c4d-6595-4f5b-b5a5-c1bee683f1ba"/>
+					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
+				</node>
 
 		<!--Hair -->
 		
