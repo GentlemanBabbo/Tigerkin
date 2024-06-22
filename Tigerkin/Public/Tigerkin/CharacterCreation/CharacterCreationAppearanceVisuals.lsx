@@ -9,7 +9,7 @@
 					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
 					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
-                   			<attribute id="DisplayName" type="TranslatedString" handle="" version="1"/> 
+                   			<attribute id="DisplayName" type="TranslatedString" handle="h4950cc2dgbb58g4204gab7agc3c7b7c781c6" version="1"/> 
 					same as the handle in your Localization\English\custom_name_here.xml
 					<attribute id="RaceUUID" type="guid" value="2b9997e4-abcd-4867-bb1c-36ed0c7fac50"/>
 					The UUID for the race you're making the head for. See below for a list.
@@ -18,18 +18,43 @@
 					<attribute id="VisualResource" type="guid" value="cb343d4d-652d-42f4-9556-97edbecc94a6"/>
 					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
 				</node>
-
+				<node id="CharacterCreationAppearanceVisual"> Tigerkin Male - B
+					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
+					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
+					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
+                   			<attribute id="DisplayName" type="TranslatedString" handle="hc00d1de0g8c7fg49a0g995cge84a089c9229" version="1"/> 
+					same as the handle in your Localization\English\custom_name_here.xml
+					<attribute id="RaceUUID" type="guid" value="2b9997e4-abcd-4867-bb1c-36ed0c7fac50"/>
+					The UUID for the race you're making the head for. See below for a list.
+					<attribute id="SlotName" type="FixedString" value="Head"/>
+					<attribute id="UUID" type="guid" value="03fd779a-6815-42e2-befb-05596416e222"/> <!--Unique UUID -->
+					<attribute id="VisualResource" type="guid" value="5c03aa40-11fd-4fda-b7c7-e7f26b7ac385"/>
+					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
+				</node>
 				<node id="CharacterCreationAppearanceVisual"> Tigerkin Female - A
 					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
 					<attribute id="BodyType" type="uint8" value="1"/> <!--0 = Masc 1 = Fem -->
-                   			<attribute id="DisplayName" type="TranslatedString" handle="" version="1"/> 
+                   			<attribute id="DisplayName" type="TranslatedString" handle="he00cb674g80deg4bb2gb180g734ba25d4dfa" version="1"/> 
 					same as the handle in your Localization\English\custom_name_here.xml
 					<attribute id="RaceUUID" type="guid" value="2b9997e4-abcd-4867-bb1c-36ed0c7fac50"/>
 					The UUID for the race you're making the head for. See below for a list.
 					<attribute id="SlotName" type="FixedString" value="Head"/>
 					<attribute id="UUID" type="guid" value="4bc895a5-2263-49bb-a947-3787912c9173"/> <!--Unique UUID -->
 					<attribute id="VisualResource" type="guid" value="907c7c4d-6595-4f5b-b5a5-c1bee683f1ba"/>
+					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
+				</node>
+				<node id="CharacterCreationAppearanceVisual"> Tigerkin Female - B
+					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
+					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
+					<attribute id="BodyType" type="uint8" value="1"/> <!--0 = Masc 1 = Fem -->
+                   			<attribute id="DisplayName" type="TranslatedString" handle="h34e46a9bgab23g4399g9ec5ga2747acef8e9" version="1"/> 
+					same as the handle in your Localization\English\custom_name_here.xml
+					<attribute id="RaceUUID" type="guid" value="2b9997e4-abcd-4867-bb1c-36ed0c7fac50"/>
+					The UUID for the race you're making the head for. See below for a list.
+					<attribute id="SlotName" type="FixedString" value="Head"/>
+					<attribute id="UUID" type="guid" value="a8593ee7-0000-4d79-9218-275982749192"/> <!--Unique UUID -->
+					<attribute id="VisualResource" type="guid" value="94ad5376-c698-4976-8197-17a13583f516"/>
 					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
 				</node>
 
