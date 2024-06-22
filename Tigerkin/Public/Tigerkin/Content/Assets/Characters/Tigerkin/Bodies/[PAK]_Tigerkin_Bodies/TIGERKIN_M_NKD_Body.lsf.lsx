@@ -708,8 +708,8 @@
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
-					<attribute id="BoundsMax" type="fvec3" value="0.8939055 1.8765771 0.20022681" />
-					<attribute id="BoundsMin" type="fvec3" value="-0.8939065 -0.0031829742 -0.22867945" />
+					<attribute id="BoundsMax" type="fvec3" value="0.8903011 1.8832618 0.21538626" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.88960713 -0.00169602 -0.24638176" />
 					<attribute id="ClothColliderResourceID" type="FixedString" value="a0fd404d-95e0-f243-717d-6022f8d6b897" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="" />
 					<attribute id="HairType" type="uint8" value="0" />
