@@ -8,16 +8,16 @@
 	<content contentuid="h22g9449aagfg1ag4282gg7deb553va63a245" version="1">You gain an additional 1.5m of movement speed if you are not wearing armor.</content>
 	<content contentuid="h22105067ghhhbg40fega7c9gef3fc0b9563a" version="1">Claw Strike</content>
 	<content contentuid="h361b0b7fg98cdg4040g84bcg921232fgn383" version="1">Lash out with your claws at an enemy.</content>
+	<content contentuid="h39d61e50ga3a0g4668gbf98g6997878deff6" version="1">Ancient Bloodrage</content>
+	<content contentuid="h617439dbgb253g4476gb88eg5583612a6894" version="1">Awaken the man eater inside. Engage in a rage that gives you advantage against enemies with less than full health. Unlocks the spell &lt;LSTag Type="Spell" Tooltip="Projectile_Great_Pounce"&gt;The Great Pounce&lt;/LSTag&gt;.</content>
+	<content contentuid="h8bd1f5f0g2126g495cg920dgdd516a028a67" version="1">Ancient Berserking</content>
+	<content contentuid="hcc172af4gf055g4a96g8ca8gfe45cd5de2cc" version="1">You have awakened the predator within. You have advantage against enemies with less than full health. You have unlocked the spell &lt;LSTag Type="Spell" Tooltip="Projectile_Great_Pounce"&gt;The Great Pounce&lt;/LSTag&gt;.</content>	
 	<content contentuid="h10ce93f7g9223g4152g8d7eg20ccb52f75c8" version="1">The Great Pounce</content>
 	<content contentuid="hfbaa04a9g91c5g407cg8977gedd7a3faffab" version="1">Leap towards your target, striking them with your claws and potentially knocking them prone.</content>
 	<content contentuid="h2215c3d7geef8g4d91g9d7bgb5c78fea4b32" version="1">Prowler</content>
 	<content contentuid="h2c5823fcge1aeg4560g95d1g6bb5d62c5cf1" version="1">You stalk the lands searching for the perfect prey. Your time in the shadows has gifted you an &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; regarding Stealth checks.</content>
 	<content contentuid="h4994787bgf775g447bgbd47g74dcad3c85d5" version="1">Bloody Savage</content>
 	<content contentuid="h6dff7e29g0e80g4873g969dg30487506890f" version="1">If a weapon strike scores a critical hit on a &lt;LSTag Tooltip="BLEEDING"&gt;Bleeding&lt;/LSTag&gt; target, an additional dice of damage will be rolled.</content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
