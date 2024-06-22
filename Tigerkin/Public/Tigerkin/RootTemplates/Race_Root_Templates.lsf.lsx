@@ -8,7 +8,8 @@
 					<attribute id="MapKey" type="FixedString" value="092e18ad-0528-4ed8-b795-906c5a38d6d1" /> must be unique
 					<attribute id="Name" type="LSString" value="BASE_Main_Female_Tigerkin" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="ParentTemplateId" type="FixedString" value="61943f98-adab-4bfd-91e1-9c20557edc73" /> DGB
+					<attribute id="ParentTemplateId" type="FixedString" value="72fc6418-6572-466e-bdc0-d7321006bf96" />
+					<attribute id="EquipmentRace" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" /> stronk armour set
 					<attribute id="Icon" type="FixedString" value="24bcc44f-4168-1468-222a-b1bb6370e000-_(Icon_Elf_Female)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="9898de32-cc27-41e1-a8a3-142a9abd0702" /> which models to load
 					<attribute id="Race" type="guid" value="2b9997e4-abcd-4867-bb1c-36ed0c7fac50" /> define race as Custom Race
@@ -25,6 +26,9 @@
 						</node>
 						<node id="Tags">
 							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="d3116e58-c55a-4853-a700-bee996207397" /> tag for stronk
+								</node>
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="c1deddc9-1549-4ea9-a0b6-1eb077d87891" /> Custom Race tag
 								</node>							
