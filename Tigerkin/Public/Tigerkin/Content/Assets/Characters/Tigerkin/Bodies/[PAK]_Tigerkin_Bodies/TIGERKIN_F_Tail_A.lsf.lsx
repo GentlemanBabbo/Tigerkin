@@ -13,22 +13,22 @@
       <attribute id="ClothColliderResourceID" type="FixedString" value="" />
       <attribute id="HairPresetResourceId" type="FixedString" value="" />
       <attribute id="HairType" type="uint8" value="0" />
-			<attribute id="ID" type="FixedString" value="677844fa-f9ca-403c-a005-c7c5ceb691e0" />
-			<attribute id="MaterialType" type="uint8" value="0" />
-			<attribute id="Name" type="LSString" value="Tigerkin_F_Tail_A" />
-			<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
-			<attribute id="RemapperSlotId" type="FixedString" value="" />
-			<attribute id="ScalpMaterialId" type="FixedString" value="" />
-			<attribute id="SkeletonResource" type="FixedString" value="6c6547c2-ea33-c498-20e9-1e5447e2ab9a" />
-			<attribute id="SkeletonSlot" type="FixedString" value="Tail" />
-			<attribute id="Slot" type="FixedString" value="NakedBody" />
-			<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-                        <attribute id="SourceFile" type="LSString" value="Generated/Public/Tigerkin/[PAK]_Tigerkin_Body/Tigerkin_Body/Tigerkin_F_Tail_A.GR2" />
-                        <!-- ^ Make sure this matches your folder structure. -->
-                        <attribute id="SupportsVertexColorMask" type="bool" value="False" />
-                        <attribute id="Template" type="FixedString" value="Generated/Public/Tigerkin/[PAK]_Tigerkin_Body/Tigerkin_Body/Tigerkin_F_Tail_A.Dummy_Root.0" />
-                        <!-- ^ Make sure this matches your folder structure, but with .Dummy_Root.0 at the end instead. -->
-			<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
+	<attribute id="ID" type="FixedString" value="677844fa-f9ca-403c-a005-c7c5ceb691e0" />
+	<attribute id="MaterialType" type="uint8" value="0" />
+	<attribute id="Name" type="LSString" value="Tigerkin_F_Tail_A" />
+	<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+	<attribute id="RemapperSlotId" type="FixedString" value="" />
+	<attribute id="ScalpMaterialId" type="FixedString" value="" />
+	<attribute id="SkeletonResource" type="FixedString" value="6c6547c2-ea33-c498-20e9-1e5447e2ab9a" />
+	<attribute id="SkeletonSlot" type="FixedString" value="Tail" />
+	<attribute id="Slot" type="FixedString" value="NakedBody" />
+	<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+	<attribute id="SourceFile" type="LSString" value="Generated/Public/Tigerkin/[PAK]_Tigerkin_Body/Tigerkin_Body/Tigerkin_F_Tail_A.GR2" />
+	<!-- ^ Make sure this matches your folder structure. -->
+	<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+	<attribute id="Template" type="FixedString" value="Generated/Public/Tigerkin/[PAK]_Tigerkin_Body/Tigerkin_Body/Tigerkin_F_Tail_A.Dummy_Root.0" />
+	<!-- ^ Make sure this matches your folder structure, but with .Dummy_Root.0 at the end instead. -->
+	<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
 				<children>
 						<node id="AnimationWaterfall">
 							<attribute id="Object" type="FixedString" value="fbcc8b68-e37b-d926-934c-759725e42e81" />
