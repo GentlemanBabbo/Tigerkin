@@ -2614,17 +2614,17 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="139d7540-7c20-e1ab-0c41-9126c5ff828d" />
-							<attribute id="ObjectID" type="FixedString" value="Rakshasa_M_Head_B.2PANTHER_Sabre_A_Eye_Mesh.1" />
+							<attribute id="ObjectID" type="FixedString" value="Tigerkin_M_Head_B.2PANTHER_Sabre_A_Eye_Mesh.1" />
 						</node>						
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="d96192bb-4233-af3d-5510-fff51cc4ee43" />
-							<attribute id="ObjectID" type="FixedString" value="Rakshasa_M_Head_B.3CAT_Head_B_Mouth_Interior_Mesh.2" />
+							<attribute id="MaterialID" type="FixedString" value="f3283bba-6025-dd5e-7a68-36fa639db970" />
+							<attribute id="ObjectID" type="FixedString" value="Tigerkin_M_Head_B.3CAT_Head_B_Mouth_Interior_Mesh.2" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="02a386a7-1014-5bf7-55ad-c124e84ef6ba" />
-							<attribute id="ObjectID" type="FixedString" value="SoulStitched_M_Head_B.4REDCAP_M_NKD_Head_B_Brow_Mesh.3" />
+							<attribute id="ObjectID" type="FixedString" value="Tigerkin_M_Head_B.4REDCAP_M_NKD_Head_B_Brow_Mesh.3" />
 						</node>
 					</children>
 				</node>
