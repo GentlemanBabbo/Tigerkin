@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="328" lslib_meta="v1,bswap_guids" />
+	<region id="TextureBank">
+		<node id="TextureBank">
+			<children>
+				<node id="Resource"> <!--First Atlas-->
+					<attribute id="ID" type="FixedString" value="4d26eb31-93e6-42ac-a564-a96ef2f5d629" /> <!-- The .dds's UUID; should match the UUID listed in the ModName_Icons.lsx -->
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="ModName_CCIcons01" /> <!-- The name of the .dds file but without the ".dds" part -->
+					<attribute id="SRGB" type="bool" value="True" />
+					<attribute id="SourceFile" type="LSString" value="Public/ModName/Assets/Textures/Icons/ModName_CCIcons01.dds" /> <!-- The path to the .dds file; should match the path listed in the ModName_Icons.lsx -->
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="ModName_Icons01" /> <!--The name of the ModName_Icons.lsx but without the ".lsx" -->
+					<attribute id="Type" type="int64" value="0" />
+				</node>
+				<node id="Resource"> <!--Second Atlas-->
+					<attribute id="ID" type="FixedString" value="20e6ac0c-4cea-4c0d-9e7a-91215ceb39c3" /> <!-- The .dds's UUID; should match the UUID listed in the ModName_Icons.lsx -->
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="ModName_CCIcons02" /> <!-- The name of the .dds file but without the ".dds" part -->
+					<attribute id="SRGB" type="bool" value="True" />
+					<attribute id="SourceFile" type="LSString" value="Public/ModName/Assets/Textures/Icons/ModName_CCIcons02.dds" /> <!-- The path to the .dds file; should match the path listed in the ModName_Icons.lsx -->
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="ModName_Icons02" /> <!--The name of the ModName_Icons.lsx but without the ".lsx" -->
+					<attribute id="Type" type="int64" value="0" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
