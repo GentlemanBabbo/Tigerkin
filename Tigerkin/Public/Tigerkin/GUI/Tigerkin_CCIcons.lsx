@@ -13,7 +13,7 @@
                     <attribute id="UUID" type="FixedString" value="70ae0faf-eae3-4a99-95f3-3eeeecc2f841"/> <!-- The .dds's UUID; should match the UUID listed in the [PAK]_UI folder's _merged file. -->
                 </node>
                 <node id="TextureAtlasTextureSize"> <!-- These are the dimensions for the atlases I've included. If you go with a different size, make sure you change this to reflect that. -->
-                    <attribute id="Height" type="int32" value="750"/>
+                    <attribute id="Height" type="int32" value="751"/>
                     <attribute id="Width" type="int32" value="1500"/>
                 </node>
             </children>
