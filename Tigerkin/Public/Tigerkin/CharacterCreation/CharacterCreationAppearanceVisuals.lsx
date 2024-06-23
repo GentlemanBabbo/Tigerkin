@@ -868,31 +868,6 @@
                     </children>
                 </node>
 
-        <!--Tails-->
-				<!--<node id="CharacterCreationAppearanceVisual"> Tail M
-					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
-					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
-					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
-			                <attribute id="DisplayName" type="TranslatedString" handle="" version="1"/> 
-					<attribute id="IconIdOverride" type="FixedString" value=""/><!-- Matches the Map Key for the corresponding icon in ModName_Icons.lsx - I usually just take the hair's VisualResource UUID and stick a 0_Hair_ in front of it -->
-					<attribute id="RaceUUID" type="guid" value="2b9997e4-abcd-4867-bb1c-36ed0c7fac50"/>
-					<attribute id="SlotName" type="FixedString" value="Tail"/>
-		                    <attribute id="UUID" type="guid" value="79a044b7-568f-46e1-89b9-94801ed6d988"/>
-                   			<attribute id="VisualResource" type="guid" value="09c45c0c-32d0-4c8b-9f7f-e66d75d52d0a"/>
-					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
-				</node>-->	
-				<!--<node id="CharacterCreationAppearanceVisual"> Tail F
-					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
-					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
-					<attribute id="BodyType" type="uint8" value="1"/> <!--0 = Masc 1 = Fem -->
-			                <attribute id="DisplayName" type="TranslatedString" handle="" version="1"/> 
-					<attribute id="IconIdOverride" type="FixedString" value=""/><!-- Matches the Map Key for the corresponding icon in ModName_Icons.lsx - I usually just take the hair's VisualResource UUID and stick a 0_Hair_ in front of it -->
-					<attribute id="RaceUUID" type="guid" value="2b9997e4-abcd-4867-bb1c-36ed0c7fac50"/>
-					<attribute id="SlotName" type="FixedString" value="Tail"/>
-		                    <attribute id="UUID" type="guid" value="045b009c-4b5c-4633-9de8-910217f7b069"/>
-                   			<attribute id="VisualResource" type="guid" value="677844fa-f9ca-403c-a005-c7c5ceb691e0"/>
-					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
-				</node>-->	
 		<!--Horns-->
 				<node id="CharacterCreationAppearanceVisual"> No Horns
 					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
