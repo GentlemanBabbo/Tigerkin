@@ -9,7 +9,7 @@
                     <attribute id="Width" type="int32" value="150"/>
                 </node>
                 <node id="TextureAtlasPath">
-                    <attribute id="Path" type="string" value="Public/Tigerkin/Assets/Textures/Icons/Tigerkin_CCIcons.dds"/> <!-- The path to the .dds file; should match the path listed in the [PAK]_UI folder's _merged file. -->
+                    <attribute id="Path" type="string" value="Public/Tigerkin/Assets/Textures/Icons/Tigerkin_CCIcons.DDS"/> <!-- The path to the .dds file; should match the path listed in the [PAK]_UI folder's _merged file. -->
                     <attribute id="UUID" type="FixedString" value="70ae0faf-eae3-4a99-95f3-3eeeecc2f841"/> <!-- The .dds's UUID; should match the UUID listed in the [PAK]_UI folder's _merged file. -->
                 </node>
                 <node id="TextureAtlasTextureSize"> <!-- These are the dimensions for the atlases I've included. If you go with a different size, make sure you change this to reflect that. -->
