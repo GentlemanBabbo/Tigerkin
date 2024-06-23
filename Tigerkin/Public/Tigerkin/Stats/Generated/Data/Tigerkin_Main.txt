@@ -56,7 +56,7 @@ new entry "Target_ClawStrike"
 type "SpellData"
 data "SpellType" "Target"
 using "Target_UnarmedAttack"
-data "SpellProperties" "IF(not Player(context.Source)):ApplyStatus(SELF,AI_HELPER_EXTRAATTACK,100,1)
+data "SpellProperties" "IF(not Player(context.Source)):ApplyStatus(SELF,AI_HELPER_EXTRAATTACK,100,1);ApplyStatus(BLEEDING,100,2)"
 data "SpellSuccess" "DealDamage(1d6+UnarmedMeleeAbilityModifier,Slashing)"
 data "TargetConditions" "not Self() and not Dead()"
 data "Icon" "GenericIcon_DamageType_Physical"
