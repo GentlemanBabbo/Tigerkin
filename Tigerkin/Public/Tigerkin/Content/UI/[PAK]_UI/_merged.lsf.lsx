@@ -11,7 +11,7 @@
 					<attribute id="SRGB" type="bool" value="True" />
 					<attribute id="SourceFile" type="LSString" value="Public/Tigerkin/Assets/Textures/Icons/Tigerkin_CCIcons.dds" /> <!-- The path to the .dds file; should match the path listed in the ModName_Icons.lsx -->
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Tigerkin_Icons" /> <!--The name of the ModName_Icons.lsx but without the ".lsx" -->
+					<attribute id="Template" type="FixedString" value="Tigerkin_CCIcons" /> <!--The name of the ModName_Icons.lsx but without the ".lsx" -->
 					<attribute id="Type" type="int64" value="0" />
 				</node>
 			</children>
