@@ -15,7 +15,7 @@ data "DisplayName" "h73f2bdb1gd71ag4273gb7ddg773b161a2666;2"
 data "Description" "h1af0953ag7d96g4541ga9a8g935992e0e555;1"
 data "Icon" "PassiveFeature_Generic_Threat"
 data "Properties" "Highlighted;ForceShowInCC"
-data "Boosts" "Proficiency (Scimitars); Proficiency(LightHammers); Proficiency(Warhammers); Proficiency(Mauls)"
+data "Boosts" "Proficiency(LightHammers); Proficiency(Warhammers); Proficiency(Mauls)"
 
 new entry "Passive_FelineFoot"
 type "PassiveData"
